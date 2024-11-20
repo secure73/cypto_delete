@@ -22,7 +22,7 @@
     <p>
         hire ist php action result: 
         <br>
-        <span>????</span>
+        <span><?=$_GET["xuser"]?></span>
     </p>
 </section>
 
